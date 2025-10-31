@@ -1,0 +1,36 @@
+{
+    "prestamo": {
+        "id": 535,
+        "monto": 12000.0,
+        "periodoNomina": null,
+        "primerDescuento": null,
+        "solicitud": 705,
+        "altaRegistro": "28/11/2019 12:10:27",
+        "idOferta": 4,
+        "tipoSimulacion": null,
+        "impMontoSol": null,
+        "impTotalPagar": null,
+        "tipoCredito": null,
+        "refCuentaClabe": null,
+        "numPeriodoNomina": null,
+        "impDescNomina": null,
+        "promotor": null
+    },
+    "solicitud": {
+        "id": 705,
+        "origenSolictud": 2,
+        "estadoSolicitud": 2,
+        "numFolioSolicitud": "11190500133-1",
+        "refTrabajador": "pensionado",
+        "fecVigenciaFolio": "26/11/2019 12:00:00",
+        "consecutivo": null,
+        "numAnio": null,
+        "altaRegistro": "22/11/2019 05:32:57",
+        "curp": "SAVA790909HDFMRN27",
+        "nss": "12345678",
+        "delegacion": "05",
+        "subDelegacion": "12",
+        "grupoFamiliar": "01",
+        "entidadFederativa": 5
+    }
+}
